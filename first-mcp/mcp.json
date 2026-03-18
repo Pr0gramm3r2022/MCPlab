@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+        "default-server": {
+            "type": "streamable-http",
+            "url": "http://localhost:3001/sse",
+            "note": "https://jubilant-space-bassoon-9rgwxjqxxj7c797g-6274.app.github.dev/"
+    }
+    }
+}

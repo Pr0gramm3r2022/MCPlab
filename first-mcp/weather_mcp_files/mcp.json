@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/workspaces/MultiAgent/weather",
+        "run",
+        "weather.py"
+      ]
+    },
+    "everything": {
+      "command": "mcp-server-everything",
+      "args": [],
+      "env": {}
+    }
+  }
+}
